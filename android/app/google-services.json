@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946266863940",
+    "project_id": "vrex-26c70",
+    "storage_bucket": "vrex-26c70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946266863940:android:97a5245eaaa774a3fd7f11",
+        "android_client_info": {
+          "package_name": "dev.VrEx.VrEx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY7l_ktMyyYYrQfgYjt-0JAVgCcg5RDIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
